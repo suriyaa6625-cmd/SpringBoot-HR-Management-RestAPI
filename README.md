@@ -1,0 +1,1 @@
+A backend RESTful API application built in Java Spring Boot that provides core Human Resource Management functionality — enabling management of employee data and HR operations through well-structured API endpoints.
